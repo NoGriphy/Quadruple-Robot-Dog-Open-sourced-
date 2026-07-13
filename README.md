@@ -21,7 +21,7 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 
 ---
 
-## ( What Do We NEED for The Quadruple Robot Dog; resources requirements? ):
+### ( What Do We NEED for The Quadruple Robot Dog; resources requirements? ):
 - A 6.8V - 7.4V 20A power supply or battery.
 - Hiwonder LSC-32 32-Channel Controller (Alternative: PCA9685 driver board can be acceptable if you have solutions to prevent current spike)
 - 12 DS3235 Servos/Motors
@@ -32,9 +32,9 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 
 ---
 
-## ( Before We Begin, I Just Want to Show You My Legacy Designs - Neglect this if you don't really care. ): 
+### ( Before We Begin, I Just Want to Show You My Legacy Designs - Neglect this if you don't really care. ): 
 ---
-## - ( Individual Component View ) -
+### - ( Individual Component View ) -
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Complete_Skeleton.jpg" width="450">
   <br>
@@ -78,7 +78,7 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 </p>
 ---
 
-## - ( Integrated Legacy Robot Dog ) -
+### - ( Integrated Legacy Robot Dog ) -
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Wires_Holder" width="450">
   <br>
