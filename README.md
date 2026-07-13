@@ -44,11 +44,13 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
   <em>Body-support Brackets - While it looks nothing changed comparing to the current design, but I slightly fixed the dimensions of the brackets.</em>
 </p>
 
+
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_With_Heads.jpg" width="450">
   <br>
   <em>"Pointy" head.</em>
 </p>
+
 
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Header_Upgraded" width="450">
@@ -56,11 +58,13 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
   <em>Decreased the total mass.</em>
 </p>
 
+
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Thign1.jpg" width="450">
   <br>
   <em>Old version of the outer thigh component. It looks really different from the current version.</em>
 </p>
+
 
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Thigh2.jpg" width="450">
@@ -68,17 +72,20 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
   <em>Pretty simple design for the inner thigh.</em>
 </p>
 
+
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Leg.jpg" width="450">
   <br>
   <em>This was my "estimation" design. I optimized the dimensions, fixed the appearances, and decreased the total mass of the leg in the new design</em>
 </p>
 
+
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Wires_Holder.jpg" width="450">
   <br>
   <em>Nothing really changed for this part; I just modified the height of the wire insertion area so the wires would be easily fit over.</em>
 </p>
+
 ---
 
 ### - ( Integrated Legacy Robot Dog ) -
