@@ -32,7 +32,7 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 
 ---
 
-### ( Before We Begin, I Just Want to Show You My Legacy Designs - Neglect this if you don't really care. ): 
+### ( Before We Begin, I Just Want to Show You My Legacy Designs - Neglect This If You Don't Really Care. ): 
 ---
 ### - ( Individual Component View ) -
 <p align="center">
