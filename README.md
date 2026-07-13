@@ -107,7 +107,7 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Wires_Holder.jpg" width="450">
   <br>
-  <em>Nothing really changed for this part; I just modified the height of the wire insertion area so the wires would be easily fit over.</em>
+  <em>Nothing really changed for this part; I just modified the height of the wire insertion area so the wires can fit over easily.</em>
   <br>
 </p>
 
