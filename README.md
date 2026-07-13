@@ -96,7 +96,7 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 <p align="center">
   <img src="RD_Image_References/Robot_Dog_Leg.jpg" width="450">
   <br>
-  <em>This was my "estimation" design. I optimized the dimensions, fixed the appearances, and decreased the total mass of the leg in the new design</em>
+  <em>This was my "estimated" design. I optimized the dimensions, fixed the appearances, and decreased the total mass of the leg in the new design</em>
   <br>
 </p>
 
