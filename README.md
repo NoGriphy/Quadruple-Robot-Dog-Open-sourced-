@@ -27,6 +27,8 @@ Additionally, I recommend a power setup that can endure 20 Amps of current so yo
 - 12 DS3235 Servos/Motors
 - CAD parts/components (Robot Dog)
 - A camera feed
+- Arduino IDE (C++)
+- ROS2 (Robot Operating System) - **OPTIONAL** (note: please ignore this requirement if you don't know how to code ROS2 programs; it is optional for serial communications and nodes distribution)
 
 ---
 
